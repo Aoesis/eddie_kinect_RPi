@@ -11,15 +11,15 @@ A stream will be made with a webcam to monitor the Eddie at all times
 (sorry for the google translate, im lazzy)
 
 Check images for:
-  Conection diagram
-  Power supply diagram
-  Main program flux diagram
+  -Conection diagram
+  -Power supply diagram
+  -Main program flux diagram
   
 
 
-Omar Ali 
-@aoesis 
-aonlov@gmail.com
+-Omar Ali 
+-@aoesis 
+-aonlov@gmail.com
   
 
 
