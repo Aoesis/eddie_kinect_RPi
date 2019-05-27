@@ -1,0 +1,23 @@
+<!--
+	HTML template for Eddie web streaming for kinect-RPi-Eddie project
+
+	Needed along with the Eddie web code which uses Flask to serve the page locally
+
+
+	Omar Ali 
+	@aoesis 
+	aonlov@gmail.com
+-->
+
+<!DOCTYPE html PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+	<HEAD>
+		<TITLE> Eddie vision </TITLE>
+	<HEAD>
+<BODY>
+	<H1>Eddie vision video</H1>
+	<P>This is what eddie has in front:: </P>
+	<!-- <P><img src="{{ url_for('static',filename="image.jpg")}}"></P> -->
+	<P><img src="{{  url_for('video_s') }}" width="320" height="240"></P>
+</BODY>
+</HTML>
